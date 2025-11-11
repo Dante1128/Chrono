@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './app.css';
+import './App.css';
 
 export default function TimeTracker() {
   const [activeTab, setActiveTab] = useState('registro');
